@@ -166,7 +166,6 @@ cout << "O animal sorteado foi: " << animais[0] << endl;
     random_device rd2;
     shuffle(numeros_tigre.begin(), numeros_tigre.end(), rd);
     cout << "Número sorteado: " << numeros_tigre[0] << endl;
-    cout << "A prática do jogo do bicho é considerada uma contravenção penal no Brasil. Segundo o artigo 50 do Decreto-Lei nº 3.688/1941, quem “explorar ou realizar jogo de azar em lugar público ou acessível ao público” pode ser punido com prisão simples de três meses a um ano e multa(Fonte:https://canalcienciascriminais.com.br/participar-de-jogo-do-bicho-e-crime/)";
   }
 
   if(animais[0] == "Urso"){
