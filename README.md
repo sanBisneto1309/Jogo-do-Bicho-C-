@@ -1,4 +1,4 @@
-# Jogo-do-Bicho-C-
+# Jogo-do-Bicho-C++
 Repositório do jogo do bicho em C++ com biblioteca random
 
 #include <iostream>
